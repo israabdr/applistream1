@@ -1,5 +1,6 @@
 import streamlit as st
 from utils import PrepProcesor, columns 
+import sklearn
 
 import numpy as np
 import pandas as pd

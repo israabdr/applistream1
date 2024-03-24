@@ -1,3 +1,4 @@
+import scikit-learn as sklearn
 from sklearn.base import BaseEstimator, TransformerMixin
 from sklearn.impute import SimpleImputer 
 import re
